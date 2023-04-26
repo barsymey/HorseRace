@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
-  <string name="gcm_defaultSenderId" translatable="false">168331020418</string>
-  <string name="google_storage_bucket" translatable="false">horserace-1f536.appspot.com</string>
-  <string name="project_id" translatable="false">horserace-1f536</string>
-  <string name="google_api_key" translatable="false">AIzaSyCD-1KFkd9087BMUGKLL_yK1ZGte2QiFYQ</string>
-  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCD-1KFkd9087BMUGKLL_yK1ZGte2QiFYQ</string>
-  <string name="google_app_id" translatable="false">1:168331020418:android:9a9ceed1dd073a74cb8c9b</string>
-  <string name="default_web_client_id" translatable="false">168331020418-o0ciojg6b5tec62nttcj8piq1elfa7op.apps.googleusercontent.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">584654831014</string>
+  <string name="google_storage_bucket" translatable="false">bhab-db936.appspot.com</string>
+  <string name="project_id" translatable="false">bhab-db936</string>
+  <string name="google_api_key" translatable="false">AIzaSyDDQfqOJb7BRAqGvGiX-OxpjzJUvLZtmP8</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDDQfqOJb7BRAqGvGiX-OxpjzJUvLZtmP8</string>
+  <string name="google_app_id" translatable="false">1:584654831014:android:29eb8a3653fabc62e2a367</string>
+  <string name="default_web_client_id" translatable="false">584654831014-v5ohtvag9d2hrdps1pjkpef4asp66hks.apps.googleusercontent.com</string>
 </resources>

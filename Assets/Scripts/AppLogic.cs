@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.Android;
 using System;
 using System.Threading.Tasks;
 
@@ -9,6 +10,9 @@ public class AppLogic : MonoBehaviour
 
     async void Start()
     {
+        
+        //screenManager.ShowWebViewScreen("https://www.pixect.com/ru/");
+        //return; 
         screenManager.ShowLoadingScreen();
         await Task.Delay(2000);
         string url = "";
@@ -37,7 +41,9 @@ public class AppLogic : MonoBehaviour
             return;
         }
         else
+        {
             screenManager.ShowWebViewScreen(url);
+        }
             
     }
 }

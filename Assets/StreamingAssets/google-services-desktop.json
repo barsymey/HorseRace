@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "168331020418",
-    "project_id": "horserace-1f536",
-    "storage_bucket": "horserace-1f536.appspot.com"
+    "project_number": "584654831014",
+    "project_id": "bhab-db936",
+    "storage_bucket": "bhab-db936.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:168331020418:android:9a9ceed1dd073a74cb8c9b",
+        "mobilesdk_app_id": "1:584654831014:android:29eb8a3653fabc62e2a367",
         "android_client_info": {
-          "package_name": "com.DefaultCompany.HorseRace"
+          "package_name": "bt.at.home.move"
         }
       },
       "oauth_client": [
         {
-          "client_id": "168331020418-o0ciojg6b5tec62nttcj8piq1elfa7op.apps.googleusercontent.com",
+          "client_id": "584654831014-v5ohtvag9d2hrdps1pjkpef4asp66hks.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCD-1KFkd9087BMUGKLL_yK1ZGte2QiFYQ"
+          "current_key": "AIzaSyDDQfqOJb7BRAqGvGiX-OxpjzJUvLZtmP8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "168331020418-o0ciojg6b5tec62nttcj8piq1elfa7op.apps.googleusercontent.com",
+              "client_id": "584654831014-v5ohtvag9d2hrdps1pjkpef4asp66hks.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

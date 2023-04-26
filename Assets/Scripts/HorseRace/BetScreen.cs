@@ -20,6 +20,8 @@ public class BetScreen : MonoBehaviour
     {
         _callback = callback; 
         _avaliablePoints = maxPointsToBet;
+        if(_avaliablePoints <= 0)
+            _avaliablePoints = 100;
         _choisenNumber = 1;
         pointsText.text = "Points avaliable: " + _avaliablePoints.ToString();
         bidInput.text = 0.ToString();
@@ -63,6 +65,6 @@ public class BetScreen : MonoBehaviour
 
     void UpdateChoisenNumberText()
     {
-        choisenNumberText.text = "Bet on horse #" + _choisenNumber;
+        choisenNumberText.text = "Placed on horse #" + _choisenNumber;
     }
 }
